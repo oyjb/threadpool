@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:44
+ * Filename      : locker.h
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #ifndef LOCKER_H
 #define LOCKER_H
 

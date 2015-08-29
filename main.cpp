@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:45
+ * Filename      : main.cpp
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>

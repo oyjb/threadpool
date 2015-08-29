@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:45
+ * Filename      : threadpool.h
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #ifndef THREADPOOL_H
 #define THREADPOOL_H
 

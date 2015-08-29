@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:44
+ * Filename      : http_conn.h
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #ifndef HTTPCONNECTION_H
 #define HTTPCONNECTION_H
 

@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:43
+ * Filename      : http_conn.cpp
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #include "http_conn.h"
 
 /*定义HTTP相应的一些状态信息*/
